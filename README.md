@@ -7,7 +7,7 @@ Welcome to the Support Engineering Roadmap for <Your Project Name>. This roadmap
 - [Prerequisites](#prerequisites)
 - [Roadmap](#roadmap)
 - [Contribution](#contribution)
-- [License](#license)
+
 
 ## Introduction
 Support Engineering is a crucial part of any software project, ensuring that users have a smooth experience and their issues are resolved effectively. This roadmap is designed to help you navigate your journey in support engineering and acquire the skills needed to excel in this role.
@@ -59,5 +59,4 @@ Here's the Support Engineering roadmap with links to resources that can help you
 ## Contribution
 This roadmap is open to contributions. If you have any suggestions or want to add more resources or topics, please feel free to create a pull request.
 
-## License
-This roadmap is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
